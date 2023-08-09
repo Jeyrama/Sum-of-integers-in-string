@@ -15,3 +15,5 @@ Note: only positive integers will be tested.
 function sumOfIntegersInString(s) {
   return (s.match(/\d+/g) || []).reduce((s, n) => s + +n, 0);
 }
+
+// or

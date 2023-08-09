@@ -34,4 +34,4 @@ function sumOfIntegersInString(s){
       }
     }
     return sum
-  }
+}

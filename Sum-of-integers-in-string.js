@@ -8,3 +8,6 @@ the sum of the integers is 3635.
 
 Note: only positive integers will be tested.
 */
+
+
+// Solution
